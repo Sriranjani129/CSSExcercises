@@ -1,0 +1,10 @@
+body{
+    font-size: smaller;
+    font-family: 'Times New Roman', Times, serif;
+}
+h1{
+    background-color: blue;
+    text-align: center;
+    text-decoration: line-through;
+    font-weight:400;
+}
